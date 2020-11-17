@@ -18,11 +18,3 @@ docker run --hostname my-rabbit --name some-rabbit -p 8080:15672  -p 5672:5672 r
 
 docker run --name some-mongo -p 27017:27017 -d mongo:latest
 
-
-
-
-
-
-
-[10:06 PM, 10/26/2020] Rayydon: dreamervy@gmail.com
-[10:06 PM, 10/26/2020] Rayydon: dreamervy123@123
